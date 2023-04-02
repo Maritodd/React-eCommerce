@@ -16,7 +16,7 @@ let store = {
                 id: 2,
                 title: "Iphone SE",
                 img: "ipSeb.jpg",
-                color: "Red",
+                color: "Black",
                 desc: "Iphone",
                 category: "Phone",
                 price: "499"
@@ -25,7 +25,7 @@ let store = {
                 id: 3,
                 title: "Iphone SE",
                 img: "ipSew.jpg",
-                color: "Red",
+                color: "White",
                 desc: "Iphone",
                 category: "Phone",
                 price: "499"

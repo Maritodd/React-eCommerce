@@ -2,7 +2,7 @@ export const Header = () => {
     return (
         <header >
             <div className="header">
-            <h1 className="header-logo">iPhone House</h1>
+            <h1 className="header-logo">Apple House</h1>
             <ul className="header-list">
                 <li className="header-list__item">Home</li>
                 <li className="header-list__item">Contact</li>
